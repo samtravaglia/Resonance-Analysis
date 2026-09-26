@@ -1,1 +1,1 @@
-# resonance_analysis
+# Material Analysis via Resonant Frequency
